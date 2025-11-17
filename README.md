@@ -218,3 +218,6 @@ This project is created for educational purposes as part of a frontend internshi
 - ✅ Clean, commented code
 
 **Happy Coding! 🚀**
+
+https://frontend-intern-assignment2.netlify.app/
+https://github.com/Tarunchauhan111/Frontend-Assignment2
